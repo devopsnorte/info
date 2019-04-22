@@ -1,4 +1,4 @@
-# Sobre este grupo
+# Sobre #devopsnorte
 
 Llevamos años siguiendo las diferentes variantes de la filosofía DevOps y nos daba pena el que no tuviéramos un grupo de referencia en la zona norte, donde compartir nuestras experiencias, dudas e ideas. Así que finalmente nos hemos animado y hemos creado "DevOps Norte".  
 Un grupo en el que será bienvenido cualquier persona interesada en estos temas. 
